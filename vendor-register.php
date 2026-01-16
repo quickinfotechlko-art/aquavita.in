@@ -1,6 +1,10 @@
-<!--header-->
-<?php include("header.php"); ?>
-<!--header/-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aquavita Distributor Registration</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
 <body>
 <div class="container">
     <h1>Aquavita Distributor Registration</h1>
@@ -37,6 +41,4 @@
     </form>
 </div>
 </body>
-       <!--footer-->
-<?php include("footer.php"); ?>
-<!--footer/-->
+</html>
